@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lift_name: MyString
+  weight: 1
+  repetitions: 1
+  date: 2021-10-04
+
+two:
+  lift_name: MyString
+  weight: 1
+  repetitions: 1
+  date: 2021-10-04
